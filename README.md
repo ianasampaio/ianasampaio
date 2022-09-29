@@ -1,10 +1,10 @@
-## Hi, my name is Iana Sampaio, I'm a Software Development Student!
- _🎓 &nbsp; Bachelor in Computer Science_
+## 𝙷𝚒, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙸𝚊𝚗𝚊 𝚂𝚊𝚖𝚙𝚊𝚒𝚘, 𝙸'𝚖 𝚊 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚂𝚝𝚞𝚍𝚎𝚗𝚝!
+ _🎓 &nbsp; 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛 𝚒𝚗 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎_
 
 <hr>
 <div>
   
-<div align="center">
+<div align="center" font="monospace">
   <a href="https://github.com/ianasampaio">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ianasampaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianasampaio&layout=compact&langs_count=7&theme=dracula"/>
@@ -27,5 +27,5 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
 </a> 
 
-#### Hope to have contact with you!! 👋
+#### 𝙷𝚘𝚙𝚎 𝚝𝚘 𝚑𝚊𝚟𝚎 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚠𝚒𝚝𝚑 𝚢𝚘𝚞!! 👋
 </div>
