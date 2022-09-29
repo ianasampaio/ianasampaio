@@ -28,6 +28,4 @@
 </a> 
 
 #### Hope to have contact with you!! 👋
-
-![Snake animation](https://github.com/ianasampaio/ianasampaio/blob/output/github-contribution-grid-snake.svg)
 </div>
