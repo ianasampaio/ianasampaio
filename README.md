@@ -37,15 +37,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
 </p>
-
-</br>
-
-## 📌 Projetos em Destaque
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <a href="https://github.com/ianasampaio/shared-list">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ianasampaio&repo=shared-list&theme=tokyonight" alt="Shared List"/>
-  </a>
-  <a href="https://github.com/ianasampaio/fincheck-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ianasampaio&repo=fincheck-api&theme=tokyonight" alt="Fincheck API"/>
-  </a>
-</div>
